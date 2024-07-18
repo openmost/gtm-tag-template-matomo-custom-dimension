@@ -15,5 +15,5 @@
 homepage: "https://openmost.io"
 documentation: "https://github.com/openmost/gtm-tag-template-matomo-custom-dimension"
 versions:
-  - sha: 045a86ff6c1e5a916188f0419475924c97950702
+  - sha: 49b87078939508cc0f208204c2d3883936b60ddc
     changeNotes: Initial Version
